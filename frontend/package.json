@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sap/xsenv": "latest",
+    "@sap/xssec": "^3.2.13",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "axios": "^1.1.2"
+  }
+}

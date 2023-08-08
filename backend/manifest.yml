@@ -1,0 +1,9 @@
+---
+applications:
+  - name: backendapp-tia-2-instance
+    path: ./
+    memory: 64M
+    routes:
+    - route: backendapp-tia-2-instance.cfapps.eu12.hana.ondemand.com
+    services:
+    - name: backendIas

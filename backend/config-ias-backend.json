@@ -1,0 +1,9 @@
+{
+  "display-name": "backendias",
+  "provided-apis": [
+    {
+      "name": "endpoint",
+      "description": "endpoint API"
+    }
+  ]
+}
